@@ -753,7 +753,7 @@ Thunder01_Pattern3#0,"""When Energized, uncharged attack power <yellow>$(0)<c>/<
 Dark01_Pattern1#0,"""Uncharged explosion expanded/Projectile speed increased<br>PP Consumption <yellow>$(0)<c>"""
 Dark01_Pattern2#0,"""Charged attack becomes 1 shot/<br>Shot travels slowly and hits multiple times<br>PP Consumption <yellow>$(0)<c>"""
 Dark01_Pattern3#0,"""With 3 Dark Beads stocked, uncharged attack power <yellow>$(0)<c>/<br>Compound Technique Gauge fill rate <yellow>$(1)<c><br>PP Consumption <yellow>$(2)<c>"""
-SwordPA02_Pattern2#0,"""非チャージ時の攻撃速度上昇／移動距離増加／PA威力<yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
+SwordPA02_Pattern2#0,"""Uncharged attack speed up/travel distance up/PA power up<yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 Common_RangeExtendDistPP#0,"""Increased attack range<br>Optimal range damage boost always applies<br>PP Consumption <yellow>$(0)<c>"""
 WlancePA01_Pattern3#0,"""ハンターアーツアヴェンジ発動時<br>次に発動するこのPA以外のワイヤードランスPA威力<yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 PartisanPA04_Pattern2#0,"""斬り上げと刺突が衝撃波を飛ばす挙動に変化<br>Increased travel distance<br>PP Consumption <yellow>$(0)<c>"""
