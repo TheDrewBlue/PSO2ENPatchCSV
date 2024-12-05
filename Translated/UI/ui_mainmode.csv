@@ -76,7 +76,7 @@ MatchingRejectJikkyouForJikkyou#0,"""指定のルームに合流できないた�
 CautionUnknown#0,"""An unknown error has occurred."""
 Loading#0,"""NOW LOADING"""
 Not_accessible_ToastMessage#0,"""Cannot be selected during All Ship Matchmaking."""
-Message_NewIconViewed#0,"""This will remove all <pict New><pict 4space>New Icons from $(0).<br><br>Do you wish to continue?""
+Message_NewIconViewed#0,"""This will remove all <pict New><pict 4space>New Icons from $(0).<br><br>Do you wish to continue?"""
 ToastText_NewIconViewed#0,"""All New Icons removed from $(0)."""
 Non_Text#0,"""No Text Display"""
 Menu_Main#0,"""Main Menu"""
