@@ -760,7 +760,7 @@ PartisanPA04_Pattern2#0,"""베기와 찌르기가 충격파를 날리는 동작�
 PartisanPA04_Pattern3#0,"""베어 넘긴 후 특정 시점에 PP <yellow>＋$(0)<c><br>소비 PP <yellow>$(1)<c>"""
 TdaggerPA03_Pattern1#0,"""PA 전반부 전진 거리 증가/상하방향 추적 성능 추가<br>소비 PP <yellow>$(0)<c>"""
 TdaggerPA03_Pattern2#0,"""PA 후반부 베기의 사거리 확장/공격 범위 확대<br>소비 PP <yellow>$(0)<c>"""
-Common_PasuitGaugeReducttion#0,"""파이터 아츠 패스트 2번째의 게이지 축적량 증가<br>소비 PP <yellow>$(0)<c>"""
+Common_PasuitGaugeReducttion#0,"""파이터 아츠 퍼슈트 2번째의 게이지 축적량 증가<br>소비 PP <yellow>$(0)<c>"""
 DsaberPA02_Pattern2#0,"""PA 전반부 가드 성공 시 후반부의 위력 <yellow>$(0)<c><br>소비 PP <yellow>$(1)<c>"""
 KnucklePA04_Pattern1#0,"""PA 전반부부터 발동 시<br>후반부가 충격파를 날리는 동작으로 변화/전진 비활성화<br>소비 PP <yellow>$(0)<c>"""
 KnucklePA04_Pattern2#0,"""PA 전반부에서 가드 성공 시<br>다음 통상 공격에 너클 어택 스위치가 발동합니다.<br>소비 PP <yellow>$(0)<c>"""
