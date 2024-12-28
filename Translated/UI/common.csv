@@ -2261,7 +2261,7 @@ Guide_Scratch_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u300
 Guide_Shop_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Switch Window: <%ChangeCtrlWindowForward>\u3000\u3000View Item Details: <%NextTabDetails>"""
 Guide_Submenu_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Change Order: <%MultiSelect>\u3000\u3000 Reset Layout: <%ChangeCtrlWindowForward>"""
 Guide_Vitaldesign_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Preview: <%Function>\u3000Add to/Edit Favorites: <%NextTabDetails>"""
-Guide_ItemRecycle_01#0,"""決定：<%Decide>\u3000\u3000キャンセル：<%Cancel>\u3000\u3000操作項目の移動：<%NextWidget>\u3000\u3000操作ウィンドウ切り替え：<%ChangeCtrlWindowForward>\u3000\u3000新着アイコンの全消去：<%NextTabDetails>"""
+Guide_ItemRecycle_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Switch Window: <%ChangeCtrlWindowForward>\u3000\u3000Clear all New Icons: <%NextTabDetails>"""
 Guide_AlwaysLockon_01#0,"""Lock-On: """
 Guide_AlwaysLockon_02#0,"""<%LockOn>"""
 Guide_AlwaysLockon_03#0,"""Hold <%LockOn>"""
