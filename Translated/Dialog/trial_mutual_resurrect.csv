@@ -1,7 +1,7 @@
 TrialName_1Enemy#0,"""Defeat $(0)"""
 TrialBeginMsg_1Enemy#0,"""Defeat the $(0)!"""
 TrialAbstract_1Enemy#0,"""Defeat $(0)"""
-TrialName_Multi#0,"""Defeat the Twinned Enemies"""
+TrialName_Multi#0,"""Defeat the Harmonized Enemies"""
 TrialBeginMsg_Multi#0,"""Defeat Both Enemies at the Same Time!"""
 TrialAbstract_Multi#0,"""Defeat Both Enemies at the Same Time"""
 NpcComOnForetaste#0,"""＊＊相互蘇生トライアル予兆"""
