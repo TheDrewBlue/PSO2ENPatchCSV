@@ -32,7 +32,7 @@ Generic_031#0,"""You can hide the game's UI for 5 seconds by typing \""/uioff 5\
 Generic_032#0,"""You can switch your equipped Main Palette by typing \""/mpal1\"".<br>Different numbers switch to different Main Palettes."""
 Generic_033#0,"""While in an ARKS Base, you can equip a saved My Set by typing<br>\""/ms1\"" in Chat. Different numbers equip different My Sets."""
 Generic_034#0,"""You can equip a saved My Fashion by typing \""/mf1\""<br>in Chat. Different numbers equip different My Fashions."""
-Esthetic_001#0,"""Up to 12 accessories can be attached,<br>as long as they are below the cost limit."""
+Esthetic_001#0,"""Up to 18 accessories can be attached,<br>as long as they are below the cost limit."""
 Esthetic_002#0,"""You can choose where to attach accessories to<br>your character, as well as fine-tune their positions."""
 Esthetic_003#0,"""By using the Toggle Costume function,<br>the character's body shape can be checked easily."""
 Esthetic_004#0,"""You can freely customize the base, inner,<br>and outer parts of layering wear."""
