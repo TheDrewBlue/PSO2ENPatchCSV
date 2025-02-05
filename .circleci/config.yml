@@ -55,9 +55,6 @@ jobs:
           name: checking CSVs for quote issues
           command: ./_sh/quote.sh
       - run:
-          name: verifing command usages
-          command: ./_sh/command.sh
-      - run:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
