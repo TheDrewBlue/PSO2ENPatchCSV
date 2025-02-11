@@ -1,8 +1,8 @@
-version: 3
+version: 2
 jobs:
   build:
     docker:
-      - image: cimg/python:3.10-node
+      - image: cimg/python:3.11-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -13,14 +13,17 @@ jobs:
         - /feature-.*/
         - JP
         - /.*_Old/
+        - JP_Reboot
     steps:
       - run:
           name: Update APT listing
-          command: sudo apt-get -qq update
+          command: sudo apt-get -qq update && sudo apt upgrade -y
       - run:
           name: Install rsync
           command: sudo apt-get --no-install-recommends -qq -y install rsync
       - checkout
+      - setup_remote_docker:
+          docker_layer_caching: true
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
@@ -109,3 +112,4 @@ jobs:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
           resource_class: large
+resource_class: large
